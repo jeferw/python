@@ -1,0 +1,5 @@
+print('5 + 3 * 2 = {}'.format(5 + 3 * 2))
+print('3 * 5 + 4 ** 2 = {}'.format(3 * 5 + 4 ** 2))
+print('3 * (5 + 4) ** 2 = {}'.format(3 * (5 + 4) ** 2))
+print('raiz de 81 = {}'.format(81 ** (1 / 2)))
+print('=*20 = {}'.format('=' * 20))

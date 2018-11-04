@@ -1,0 +1,7 @@
+n1 = int(input('Um Valor: '))
+n2 = int(input('Outro valor: '))
+print('A soma vale: {}'.format(n1 + n2), end=' ')
+print('A multiplicação vale: {:.3f}'.format(n1 * n2))
+print('A divisão vale: {}'.format(n1 / n2))
+print('A divisão inteira vale: {}'.format(n1 // n2))
+print('A potencia vale: {}'.format(n1 ** n2))
